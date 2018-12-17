@@ -1,0 +1,10 @@
+body {
+    color: #414141;               /* Dark gray */
+    background-color: #EEEEEE;    /* Light gray */
+  }
+  #footer {
+    background-color: red;
+  }
+  .lista {
+    font-size: 36px;
+  }
